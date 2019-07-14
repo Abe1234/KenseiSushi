@@ -1,0 +1,37 @@
+
+#navbarcito{
+    background-color: #000000;
+    color:white;
+    padding:3px;
+}
+#carrito{
+    margin-left: 800px;
+}
+#bodycito{
+    background-color: #000000;
+}
+
+#item1{
+    border-style: solid;
+    border-color: blue;
+    margin-right: 6px;
+    border-width: 1px;
+    margin-bottom: 4px;
+
+}
+#item2{
+    border-style: solid;
+    border-color: blue;
+    margin-right: 6px;
+    border-width: 1px;
+    margin-bottom: 4px;
+}
+#item3{
+    border-style: solid;
+    border-color: blue;
+    margin-right: 6px;
+    border-width: 1px;
+    margin-bottom: 4px;
+    
+}
+
